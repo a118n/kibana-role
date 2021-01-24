@@ -1,4 +1,4 @@
-Role Name
+Kibana Role for Ansible
 =========
 
 Download and install Kibana from official website
